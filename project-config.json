@@ -5,6 +5,12 @@
   "enforcingExecutionInHome": true,
   "parentProjectName": "",
   "config": {
-    "variables": []
+    "variables": [
+      {
+        "name": "FUENTES",
+        "value": "${PROJECT_HOME}/datos",
+        "description": "Carpeta local de fuentes"
+      }
+    ]
   }
 }
